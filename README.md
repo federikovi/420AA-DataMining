@@ -1,2 +1,2 @@
-# DataMiningII
-Jupyter notebook for the Data Mining II University project.
+### 420AA Data Mining 2
+
